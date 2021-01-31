@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="yourScore">Tavo Rezultatas: %1$d</string>
+    <string name="timeLeft">Liko Laiko: %1$d</string>
+    <string name="tapMe">Spausk Mane</string>
+    <string name="gameOverMessage">" Laikas baigėsi! Tavo rezultatas: %1$d"</string>
+</resources>
